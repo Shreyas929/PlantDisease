@@ -1,2 +1,2 @@
 print("hello")
-print("this is ui")
+print("this is model")
